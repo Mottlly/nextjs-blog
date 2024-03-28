@@ -1,6 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import Hellothere from "nextjs-blog/pages/Hellothere.js";
+import HelloThere from "nextjs-blog/components/HelloThere.jsx";
 
 export default function Home() {
   return (

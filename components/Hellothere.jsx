@@ -1,6 +1,6 @@
 import styles from "../styles/Home.module.css";
 
-export default function Hellothere() {
+function HelloThere() {
   return (
     <>
       <h1 className={styles.title}>Hello There...</h1>
@@ -8,3 +8,5 @@ export default function Hellothere() {
     </>
   );
 }
+
+export default HelloThere 
