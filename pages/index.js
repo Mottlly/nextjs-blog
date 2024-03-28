@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <Hellothere />
         <h1 className={styles.title}>
           Learn <a href="https://nextjs.org">Next.js!</a>
         </h1>
